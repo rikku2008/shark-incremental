@@ -336,7 +336,7 @@ LANGUAGES.JA = {
         'research-c6-desc': `${toTextStyle('マグマ', 'core')}の破片は放射線の最大値を減少させます。`,
 
         'research-c7-name': '鋭いサメの歯',
-        'research-c7-desc': `'サメの歯'の効果が<b>2.5乗</b>されます。`,
+        'research-c7-desc': `'サメの噛みつき'の効果が<b>2.5乗</b>されます。`,
 
         'research-c8-name': '鉄とネオンの品質強化',
         'research-c8-desc': `<b>鉄</b>の効果は2倍になります。また、<b>鉄</b>と<b>ネオン</b>の要求量も大きく減ります。`,
