@@ -150,7 +150,7 @@ LANGUAGES.JA = {
             核放射線実験を開始すると${toTextStyle('核', 'core')}リセットを行います。<br>
             実験中は核融合炉が停止します。${toTextStyle('魚', 'fish')}、${toTextStyle('転生', 'prestige')}の破片、4つの海洋の資源の獲得量は立方根されます。<br>
             実験中は${toTextStyle('サメ', 'shark')}に${rf}を食べさせるのを強制させます。<br>
-            放射性の${rf}を使ってアップグレードすることで、追加のブーストを提供する、より多くの${toTextStyle('放射性 ' + icon('radioactive'), 'core')}を生産します。
+            放射性の${rf}を使ってアップグレードすることで、追加のブーストを提供する、より多くの${toTextStyle('放射線 ' + icon('radioactive'), 'core')}を生産します。
             `;
         },
         'radioboost-div': `<h3 id="radioactive-boost">0</h3>つの放射性ブーストを持っています。`,
